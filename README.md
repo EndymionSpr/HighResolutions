@@ -1,0 +1,2 @@
+# HighResolutions
+Laravel API
