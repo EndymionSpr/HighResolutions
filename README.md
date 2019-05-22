@@ -1,2 +1,1 @@
-# HighResolutions
-Laravel API
+# lara_app
